@@ -12,10 +12,4 @@
             </class>
         </classes>
     </test>
-    <test thread-count="5" name="Error Validations test">
-        <classes>
-            <class name="rahulshettyacademy.tests.t03_ErrorValidations">
-            </class>
-        </classes>
-    </test>
 </suite>
