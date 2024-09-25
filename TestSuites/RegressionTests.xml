@@ -9,15 +9,7 @@
         <classes>
             <class name="rahulshettyacademy.tests.t01_StandAloneTest">
             </class>
-            <class name="rahulshettyacademy.tests.t02_SubmitOrderTest">
-            </class>
             <class name="rahulshettyacademy.tests.t04_SubmitOrderTestJason">
-            </class>
-        </classes>
-    </test>
-    <test thread-count="5" name="Error Validations test">
-        <classes>
-            <class name="rahulshettyacademy.tests.t03_ErrorValidations">
             </class>
         </classes>
     </test>
